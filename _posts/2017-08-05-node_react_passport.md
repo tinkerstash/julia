@@ -3,7 +3,7 @@ layout: post
 title: "Node, React, Passport"
 description: "Node, React, Passport"
 author: jiawei
-category: web development
+category: projects
 finished: true
 ---
 

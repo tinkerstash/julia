@@ -3,7 +3,7 @@ layout: post
 title: "GPU SoftImpute"
 description: "GPU SoftImpute"
 author: jiawei
-category: machine learning
+category: projects
 finished: true
 ---
 
